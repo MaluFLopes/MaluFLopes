@@ -5,7 +5,7 @@
 
 ## About me: 
 
-💬 I'm a data-driven professional with a passion for turning information into actionable insights. I'm currently focusing on Data Analysis and Business Intelligence.
+💬 I'm currently focusing on Data Analysis and Business Intelligence.
 
 🎓 Bachelor's Degree in Economics from Universidade Federal de Santa Catarina.
 
