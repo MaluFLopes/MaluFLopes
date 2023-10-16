@@ -1,5 +1,5 @@
-### Hello there! 👋
-### Welcome to my GitHub! I'm Maria Luisa and I'm happy that you are here 😃
+<h1 align="center">Hello there! 👋</h1>
+<h3 align="center">Welcome to my GitHub! I'm Maria Luisa and I'm happy that you are here 😃</h1>
 
 ## 🚀 Data Analyst and Business Intelligence Professional
 
