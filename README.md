@@ -1,27 +1,19 @@
-<h1 align="center">Hello there! 👋</h1>
-<h3 align="center">Welcome to my GitHub! I'm Maria Luisa and I'm happy that you are here 😃</h1>
+<h1 align="left">Hello there! 👋</h1>
+<h2 align="center">Welcome to my GitHub! I'm Maria Luisa and I'm happy that you are here 😃</h2>
 
-## 🚀 Data Analyst and Business Intelligence Professional
+<h3 align="center">🚀 Data Analyst and Business Intelligence Professional</h3>
 
-👩 Name: Maria Luisa Ferreira Lopes
+## About me: 
 
-🌎 Country: Brazil
+💬 I'm a data-driven professional with a passion for turning information into actionable insights. I'm currently focusing on Data Analysis and Business Intelligence.
+
+🎓 Bachelor's Degree in Economics from Universidade Federal de Santa Catarina.
+
+💻 Experiences: 6 years of experience -> 2 of them in a Business Intelligence position, where I improved my hard and soft skills to excel in data analysis.
 
 🌟 Soft skills: Analytical Skills, Attention to Detail, Strong Communication and Presentation Skills
 
 🎲 Hobbies: Reading, Traveling, Learning Languages, Doing Sports and Meditating 
-
-## About me: 
-
-💬 I'm a data-driven professional with a passion for turning information into actionable insights. 
-
-🎓 Bachelor's Degree in Economics from Universidade Federal de Santa Catarina.
-
-💻 Experiences: 2 years in Business Intelligence positions and 4 years in Finance positions, where I improved my hard and soft skills to excel in data analysis.
-
-🌱 I’m currently learning enhancing my data skills through the SANTANDER BOOTCAMP in Data Science with Python
-
-🌳 I recently completed the Google Business Intelligence Professional Certificate on Coursera
 
 ## 🔧 Hard Skills
 
@@ -38,19 +30,4 @@
 ## 📫 How to reach me:
 
 [![Link to Maria Luisa Lopes' Linkedin profile](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maria-luisa-flopes/)
-[![Write an e-mail to Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luisa.lopes.96@gmail.com)
-
-<!--
-**MaluFLopes/MaluFLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Write an e-mail to Maria Luisa Lopes](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luisa.lopes.96@gmail.com)
