@@ -9,7 +9,7 @@
 
 🎓 Bachelor's Degree in Economics from Universidade Federal de Santa Catarina.
 
-💻 Experiences: 6 years of experience -> 2 of them in a Business Intelligence position, where I improved my hard and soft skills to excel in data analysis.
+💻 Experiences: 5 years of experience -> 2 of them in a Business Intelligence position, where I improved my hard and soft skills to excel in data analysis.
 
 🌟 Soft skills: Analytical Skills, Attention to Detail, Strong Communication and Presentation Skills
 
@@ -21,6 +21,8 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
+ Visit my website to see analysis with data visualization tools: [![Link to Maria Luisa Lopes' website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/maria-luisa-flopes)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
