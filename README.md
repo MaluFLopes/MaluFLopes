@@ -9,7 +9,7 @@
 
 🎓 Bachelor's Degree in Economics from Universidade Federal de Santa Catarina.
 
-💻 Experiences: 5 years of experience -> 2 of them in a Business Intelligence position, where I improved my hard and soft skills to excel in data analysis.
+💻 Experiences: 5 years of experience -> 2 of them in a Business Intelligence position, where I improved my hard and soft skills to excel in data analysis. Currently with 6 months of experience focused on data analysis as a Junior Data Analyst in BlueMetrics and Wine.
 
 🌟 Soft skills: Analytical Skills, Attention to Detail, Strong Communication and Presentation Skills
 
